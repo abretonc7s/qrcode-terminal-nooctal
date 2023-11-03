@@ -1,3 +1,4 @@
+# Forked from https://github.com/gtanner/qrcode-terminal/tree/master
 # QRCode Terminal Edition [![Build Status][travis-ci-img]][travis-ci-url]
 
 > Going where no QRCode has gone before.
