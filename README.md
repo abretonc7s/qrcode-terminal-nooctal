@@ -14,11 +14,11 @@
 
 Can be installed with:
 
-    $ npm install qrcode-terminal
+    $ npm i qrcode-terminal-nooctal
 
 and used:
 
-    var qrcode = require('qrcode-terminal');
+    import qrcode from 'qrcode-terminal-nooctal';
 
 ## Usage
 
@@ -49,7 +49,7 @@ If you want to display small output, provide `opts` with `small`:
 
 ## Install
 
-    $ npm install -g qrcode-terminal
+    $ npm i -g qrcode-terminal-nooctal
 
 ## Usage
 
